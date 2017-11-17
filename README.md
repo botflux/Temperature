@@ -1,2 +1,2 @@
-# Temperature
-Application web qui montre la température
+# ThingSpeak
+ThinkSpeak examples
